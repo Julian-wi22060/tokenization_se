@@ -1,0 +1,19 @@
+Kommunikation untereinander, dass jeder auf dem neuesten Stand ist.
+Die Kommunikation lief schon besser als in vergangenen Projekten, ist aber noch verbesserungswürdig.
+Die Vereinigung der Einzelsysteme erfordert mehr Kommunikationsaufwand.
+Aufsetzen der Umgebung für gemeinsames Arbeiten.
+Priorisierung einzelner Aufgaben nicht den Anforderungen entsprechend.
+Kommunikation war okay, aber nicht perfekt.
+Kommunikation war weniger gut - es gab Missverständnisse und es mussten Teilaufgaben neu begonnen werden. 
+Aufgabenbeschreibung manchmal nicht ganz hilfreich.
+Aufgabenvorgaben (wenig Information).
+die Aufgabenverteilung.
+Programmieren hat viele Nerven gekostet, da es öfters kleinere Probleme gab, auf die man nicht so leicht kommt.
+Kommunikation welche Aufgabe es priorisiert werden muss.
+Backlog unklar.
+Befüllen des Backlogs.
+Planung.
+Nicht so regelmäßige Updates - man musste selbst in Jira/Repo schauen.
+Pflegen des Jiras.
+Zeitplanung/ Zeitdruck.
+Klare und konkrete zielsetzung.
